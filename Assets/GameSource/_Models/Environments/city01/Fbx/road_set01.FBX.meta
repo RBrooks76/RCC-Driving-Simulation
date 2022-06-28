@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: f00637df0ee6fda4f9488799da3f0b11
+timeCreated: 1448275525
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: road_set01_block01
+    100004: road_set01_block02
+    100006: road_set01_block03
+    100008: road_set01_block04
+    100010: road_set01_block05
+    100012: road_set01_block06
+    100014: road_set01_block07
+    100016: road_set01_block08
+    100018: road_set01_block09
+    100020: road_set01_block10
+    100022: road_set01_block11
+    100024: road_set01_block12
+    100026: road_set01_block13
+    100028: road_set01_block14
+    100030: road_set01_road01
+    100032: road_set01_road02
+    100034: road_set01_road03
+    100036: road_set01_road04
+    100038: road_set01_road05
+    100040: road_set01_road06
+    100042: road_set01_road07
+    100044: road_set01_road08
+    100046: road_set01_road09
+    100048: road_set01_road10
+    100050: road_set01_road11
+    100052: road_set01_road12
+    100054: road_set01_road13
+    400000: //RootNode
+    400002: road_set01_block01
+    400004: road_set01_block02
+    400006: road_set01_block03
+    400008: road_set01_block04
+    400010: road_set01_block05
+    400012: road_set01_block06
+    400014: road_set01_block07
+    400016: road_set01_block08
+    400018: road_set01_block09
+    400020: road_set01_block10
+    400022: road_set01_block11
+    400024: road_set01_block12
+    400026: road_set01_block13
+    400028: road_set01_block14
+    400030: road_set01_road01
+    400032: road_set01_road02
+    400034: road_set01_road03
+    400036: road_set01_road04
+    400038: road_set01_road05
+    400040: road_set01_road06
+    400042: road_set01_road07
+    400044: road_set01_road08
+    400046: road_set01_road09
+    400048: road_set01_road10
+    400050: road_set01_road11
+    400052: road_set01_road12
+    400054: road_set01_road13
+    2300000: road_set01_block01
+    2300002: road_set01_block02
+    2300004: road_set01_block03
+    2300006: road_set01_block04
+    2300008: road_set01_block05
+    2300010: road_set01_block06
+    2300012: road_set01_block07
+    2300014: road_set01_block08
+    2300016: road_set01_block09
+    2300018: road_set01_block10
+    2300020: road_set01_block11
+    2300022: road_set01_block12
+    2300024: road_set01_block13
+    2300026: road_set01_block14
+    2300028: road_set01_road01
+    2300030: road_set01_road02
+    2300032: road_set01_road03
+    2300034: road_set01_road04
+    2300036: road_set01_road05
+    2300038: road_set01_road06
+    2300040: road_set01_road07
+    2300042: road_set01_road08
+    2300044: road_set01_road09
+    2300046: road_set01_road10
+    2300048: road_set01_road11
+    2300050: road_set01_road12
+    2300052: road_set01_road13
+    3300000: road_set01_block01
+    3300002: road_set01_block02
+    3300004: road_set01_block03
+    3300006: road_set01_block04
+    3300008: road_set01_block05
+    3300010: road_set01_block06
+    3300012: road_set01_block07
+    3300014: road_set01_block08
+    3300016: road_set01_block09
+    3300018: road_set01_block10
+    3300020: road_set01_block11
+    3300022: road_set01_block12
+    3300024: road_set01_block13
+    3300026: road_set01_block14
+    3300028: road_set01_road01
+    3300030: road_set01_road02
+    3300032: road_set01_road03
+    3300034: road_set01_road04
+    3300036: road_set01_road05
+    3300038: road_set01_road06
+    3300040: road_set01_road07
+    3300042: road_set01_road08
+    3300044: road_set01_road09
+    3300046: road_set01_road10
+    3300048: road_set01_road11
+    3300050: road_set01_road12
+    3300052: road_set01_road13
+    4300000: road_set01_road12
+    4300002: road_set01_block05
+    4300004: road_set01_block01
+    4300006: road_set01_block02
+    4300008: road_set01_block08
+    4300010: road_set01_block10
+    4300012: road_set01_block11
+    4300014: road_set01_block12
+    4300016: road_set01_block14
+    4300018: road_set01_block03
+    4300020: road_set01_block04
+    4300022: road_set01_block06
+    4300024: road_set01_block07
+    4300026: road_set01_block09
+    4300028: road_set01_block13
+    4300030: road_set01_road01
+    4300032: road_set01_road02
+    4300034: road_set01_road03
+    4300036: road_set01_road04
+    4300038: road_set01_road05
+    4300040: road_set01_road06
+    4300042: road_set01_road07
+    4300044: road_set01_road08
+    4300046: road_set01_road09
+    4300048: road_set01_road13
+    4300050: road_set01_road10
+    4300052: road_set01_road11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
